@@ -1,12 +1,37 @@
-# React + Vite
+# 🚀 Zentry Clone Webpage
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A visually dynamic and interactive clone of the **Zentry** website, built step-by-step with guidance from **JavaScript Mastery**. This project combines **scroll-triggered animations, geometric transitions, and engaging video storytelling** to create an immersive user experience.
 
-Currently, two official plugins are available:
+## ✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 🎭 **Scroll-Triggered Animations** — Animations dynamically activate as users scroll.
+- 📐 **Geometric Transitions** — Smooth shape-based transitions enhance the design.
+- 🎥 **Engaging Video Storytelling** — Integrated videos provide an interactive experience.
+- 🖱️ **3D Hover Effects** — Elements react to user interaction with depth and motion.
+- 📱 **Fully Responsive** — Adapts seamlessly to different screen sizes and devices.
 
-## Expanding the ESLint configuration
+## 🛠️ Built With
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- [React](https://reactjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [GSAP (GreenSock Animation Platform)](https://greensock.com/gsap/)
+- [Vite](https://vitejs.dev/)
+
+## 📸 Preview
+
+### 🔄 Hero
+![Hero](screenshots/hero.png)
+
+### 📐 About
+![About](screenshots/about.png)
+
+### 🎥 Feature
+![Feature](screenshots/feature.png)
+
+### 🖱️ Story
+![Story](screenshots/story.png)
+
+### 📱 Contact
+![Contact](screenshots/contact.png)
+
+
